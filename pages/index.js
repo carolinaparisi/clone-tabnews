@@ -1,8 +1,8 @@
 function Home() {
 	return (
 		<h1>
-			Parabéns por conseguir cada vez mais! Seu esforço, dedicação e carinho
-			sempre serão recomenpensados 😊 Tenho muito orgulho de tu!
+			Um verdadeiro herói não se mede pela força física, mas pela força que tem
+			no coração 💛
 		</h1>
 	);
 }
